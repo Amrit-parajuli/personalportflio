@@ -9,15 +9,15 @@
 
 ### Website Preview
 #### Home Page
-<img src="/home/amritparajuli/Documents/portflio/assets/website/2022-11-05 12-09-02(0)(0).gif" width="900">
+<img src="website/2022-11-05 12-09-02(0)(0).gif" width="900">
 
 
 #### About Page
-<img src="/home/amritparajuli/Documents/portflio/assets/website/Screenshot_about.jpg" width="900">
+<img src="website/Screenshot_about.jpg" width="900">
 
 
 #### Projects Page
-<img src="/home/amritparajuli/Documents/portflio/assets/website/Screenshot_pro.jpg" width="900">
+<img src="website/Screenshot_pro.jpg" width="900">
   
 
 
