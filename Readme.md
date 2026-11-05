@@ -1,3 +1,3 @@
 # Personal Portfolio 🔥
-> amritparajuli.com.np
+> https://amritparajuli.com.np/
 
